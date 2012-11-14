@@ -26,3 +26,6 @@ E:\PINP\Task21\obj\Release\PINP.application
 E:\PINP\Task21\obj\Release\PINP.exe
 E:\PINP\Task21\obj\Release\PINP.xml
 E:\PINP\Task21\obj\Release\PINP.pdb
+E:\Code\PINP\Task21\obj\Release\PINP.exe
+E:\Code\PINP\Task21\obj\Release\PINP.xml
+E:\Code\PINP\Task21\obj\Release\PINP.pdb
