@@ -26,6 +26,17 @@ E:\PINP\Task21\obj\Release\PINP.application
 E:\PINP\Task21\obj\Release\PINP.exe
 E:\PINP\Task21\obj\Release\PINP.xml
 E:\PINP\Task21\obj\Release\PINP.pdb
+E:\Code\PINP\Task21\bin\Release\PINP.exe.manifest
+E:\Code\PINP\Task21\bin\Release\PINP.application
+E:\Code\PINP\Task21\bin\Release\PINP.exe
+E:\Code\PINP\Task21\bin\Release\PINP.pdb
+E:\Code\PINP\Task21\bin\Release\PINP.xml
+E:\Code\PINP\Task21\obj\Release\PINP.Form1.resources
+E:\Code\PINP\Task21\obj\Release\PINP.Resources.resources
+E:\Code\PINP\Task21\obj\Release\pinp.vbproj.GenerateResource.Cache
+E:\Code\PINP\Task21\obj\Release\PINP.TrustInfo.xml
+E:\Code\PINP\Task21\obj\Release\PINP.exe.manifest
+E:\Code\PINP\Task21\obj\Release\PINP.application
 E:\Code\PINP\Task21\obj\Release\PINP.exe
 E:\Code\PINP\Task21\obj\Release\PINP.xml
 E:\Code\PINP\Task21\obj\Release\PINP.pdb
