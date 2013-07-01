@@ -1,3 +1,8 @@
+' PINP (PINP Is Not Paint) is a small project originally intended as a 
+' clone of Microsift's ubiquitous 'Paint' program.
+
+'     Copyright (C) 2012  Harry Sutcliffe
+
 ' This file is part of PINP.
 
 ' PINP is free software: you can redistribute it and/or modify
